@@ -1,0 +1,57 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "86f6ada487cd76f32fec9be969b7d80a3fdb3f9f47ddd799c5e62e09206efb51"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "cloudpickle": {
+            "hashes": [
+                "sha256:bf0b95dabf35645bc070a3f3d2f6e5c4ee8b247e2dfeb8022ad53bb2fe1bf03a",
+                "sha256:d894ba62b0a04c3ccd482f6bc720dd02d4febcf320f5916c33d258b85d8409b1"
+            ],
+            "version": "==0.7.0"
+        },
+        "doit": {
+            "hashes": [
+                "sha256:52b7ad1c0095425bd719c2fc9fb27af94fb0ee478762c50abf385faaf786d010",
+                "sha256:bad01949effd537cade3aea286cc2cde074bdb7a4f442015557b1228dd46f5ea"
+            ],
+            "index": "pypi",
+            "version": "==0.31.1"
+        },
+        "import-deps": {
+            "hashes": [
+                "sha256:ac73eefd04befdb57a4b7666260ca23ce01e81821042ce55ebc83ca72ba8aa43"
+            ],
+            "index": "pypi",
+            "version": "==0.1.0"
+        },
+        "pygraphviz": {
+            "hashes": [
+                "sha256:50a829a305dc5a0fd1f9590748b19fece756093b581ac91e00c2c27c651d319d"
+            ],
+            "index": "pypi",
+            "version": "==1.5"
+        },
+        "pyinotify": {
+            "hashes": [
+                "sha256:9c998a5d7606ca835065cdabc013ae6c66eb9ea76a00a1e3bc6e0cfe2b4f71f4"
+            ],
+            "markers": "sys_platform == 'linux'",
+            "version": "==0.9.6"
+        }
+    },
+    "develop": {}
+}
